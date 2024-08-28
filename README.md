@@ -13,7 +13,7 @@
 - **Your Project**: Encourages visitors to start a project with you.
 - **Blog**: Contains articles and updates.
 - **Subscription**: A form for subscribing to the newsletter.
-- **Footer**: Includes contact information and social media links.
+- **Footer**: Includes contact information and social media links
 
 ## Technologies Used
 - **HTML**: For page structure.
